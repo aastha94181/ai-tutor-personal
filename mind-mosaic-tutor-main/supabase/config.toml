@@ -1,0 +1,22 @@
+project_id = "laoqmwgtywshmkwaipyi"
+
+[functions.generate-curriculum]
+verify_jwt = true
+
+[functions.evaluate-assignment]
+verify_jwt = true
+
+[functions.fetch-youtube-resources]
+verify_jwt = true
+
+[functions.fetch-github-resources]
+verify_jwt = true
+
+[functions.fetch-articles]
+verify_jwt = true
+
+[functions.fetch-resources]
+verify_jwt = true
+
+[functions.help-chat]
+verify_jwt = false
